@@ -6,6 +6,8 @@ CyberXS is an XSS Vulnerability Automation Tool made with multiple Oneliners
 ## Command
 
 ```
-./xss.sh
-
+git clone https://github.com/thecybertix/CyberXS.git
+cd CyberXS
+chmod +x cyberxs.sh
+./cyberxs.sh
 ```
